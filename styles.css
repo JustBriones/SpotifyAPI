@@ -1,0 +1,21 @@
+body {
+  background: #cce0d1;
+}
+.container {
+   height: 100vh;
+   background:
+}
+.userInput {
+  text-align: center;
+  padding: 30px;
+}
+.results {
+  height: 85%;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+}
+.userSearch {
+  border-radius: 8px;
+  text-align: center;
+}
